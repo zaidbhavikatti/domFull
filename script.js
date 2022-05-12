@@ -94,6 +94,7 @@ function removecss(){
     console.log('clicked on button');
 }
 
+
 // innerText
 
 let test = document.getElementById('para1');
