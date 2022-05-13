@@ -87,9 +87,9 @@ function addcss(){
     test.innerHTML = 'Learning <b>DOM</b>'
     
 }
-
-function removecss(){
-    parentele.lastElementChild.classList.remove("styling");
+  
+function removecss(){  
+     parentele.lastElementChild.classList.remove("styling");
     paragraph.classList.remove('styling');
     console.log('clicked on button');
 }
