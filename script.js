@@ -38,6 +38,7 @@ console.log(element2.previousElementSibling);
 console.log(element2.textContent);
 console.log(element2.parentElement);
 
+
 heading.style.color = 'yellow';
 heading.style.backgroundColor = 'lightgreen';
 heading.style.fontSize = '100px';
@@ -57,6 +58,7 @@ console.log(midele);
 midele.style.backgroundColor = "green";
 midele.style.color = "yellow";
 midele.style.fontSize = "50px";
+ 
 
 //Applying the CSS-group of properties, by using the cssText.
 let ele = document.getElementById("title");
