@@ -69,6 +69,7 @@ ele.style.cssText =
 let parentele = document.getElementById("parent");
 console.log(parentele);
 
+
 //Applying the css by using class.
 parentele.lastElementChild.classList.add("styling");
 
